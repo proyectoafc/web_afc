@@ -58,12 +58,12 @@ export default function LandingPage(props) {
               <Button
                 color="danger"
                 size="lg"
-                href="https://www.youtube.com/watch?v=MAzaYVm1VJY&t=2362s"
+                href="https://horacio89.shinyapps.io/tablero_supervision/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <i className="fas fa-play" />
-                video
+                Ver mapa en tiempo real
               </Button>
             </GridItem>
           </GridContainer>
