@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9ffa946750454943ee22b0038bcd9a3",
+    "revision": "a8f059fab0396bb9d184c2bf32094297",
     "url": "/web_afc/index.html"
   },
   {
-    "revision": "4ac86602d3e64c6082c5",
+    "revision": "797a9da1bcab2ab930bd",
     "url": "/web_afc/static/css/main.126c14d6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/web_afc/static/js/2.0b75b7db.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ac86602d3e64c6082c5",
-    "url": "/web_afc/static/js/main.4931ed90.chunk.js"
+    "revision": "797a9da1bcab2ab930bd",
+    "url": "/web_afc/static/js/main.83a1a356.chunk.js"
   },
   {
     "revision": "da5ee87435efe8a22a44",
@@ -36,8 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/web_afc/static/media/Mochila.39dd3bfb.jpg"
   },
   {
-    "revision": "555012ddc102df92463196adeb876241",
-    "url": "/web_afc/static/media/agentes_comunitarios.555012dd.jpg"
+    "revision": "7dd90292ac7bf08c92dfca0367c42b95",
+    "url": "/web_afc/static/media/agentes_comunitarios.7dd90292.jpg"
   },
   {
     "revision": "f1d71f777331fd7e3de116edf4ee3b67",
